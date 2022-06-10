@@ -1,0 +1,12 @@
+body {
+    background-color: #1F41A9;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    vertical-align: middle;
+    height: 90vh;
+}
